@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,40:0F172A,75:155E75,100:06B6D4&text=Shobhit%20Rajvanshi&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Frontend%20Engineering&descSize=16&descAlignY=55&animation=fadeIn" width="100%" alt="Shobhit Rajvanshi — Senior Software Engineer" />
 
@@ -78,7 +78,7 @@ I enjoy solving complex engineering problems, simplifying user workflows, and bu
 
 ## 🏢 Enterprise Engineering Projects
 
-<sub>Selected areas of engineering work across enterprise SaaS management, governance, and developer productivity.</sub>
+<sub>Selected engineering contributions across enterprise SaaS management, governance, and developer productivity.</sub>
 
 <table>
 <tr>
@@ -184,7 +184,7 @@ Developed an internal developer tooling concept to simplify local development wo
 </tr>
 </table>
 
-<sub>Note: These project descriptions summarize engineering contributions. They do not imply sole ownership of the products or disclose internal source code, infrastructure, or proprietary implementation details.</sub>
+<sub>These descriptions summarize engineering contributions and intentionally omit proprietary source code, internal endpoints, and confidential implementation details.</sub>
 
 ---
 
@@ -192,13 +192,13 @@ Developed an internal developer tooling concept to simplify local development wo
 
 <div align="center">
 
-<img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=shbht-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=shobhit-rajvanshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics for shobhit-rajvanshi" />
 
-<img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shbht-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit-rajvanshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages for shobhit-rajvanshi" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shbht-cyber&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=shobhit-rajvanshi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for shobhit-rajvanshi" />
 
 </div>
 
@@ -207,11 +207,23 @@ Developed an internal developer tooling concept to simplify local development wo
 ## 🐍 Contribution Activity
 
 <div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shobhit-rajvanshi/shobhit-rajvanshi/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shobhit-rajvanshi/shobhit-rajvanshi/output/github-contribution-grid-snake.svg"
+  />
   <img
     src="https://raw.githubusercontent.com/shobhit-rajvanshi/shobhit-rajvanshi/output/github-contribution-grid-snake.svg"
-    alt="Animated GitHub contribution snake"
+    alt="Animated GitHub contribution graph for shobhit-rajvanshi"
     width="100%"
   />
+</picture>
+
 </div>
 
 ---
