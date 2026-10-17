@@ -207,9 +207,11 @@ Developed an internal developer tooling concept to simplify local development wo
 ## 🐍 Contribution Activity
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/shbht-cyber/shbht-cyber/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution graph" />
-
+  <img
+    src="https://raw.githubusercontent.com/shobhit-rajvanshi/shobhit-rajvanshi/output/github-contribution-grid-snake.svg"
+    alt="Animated GitHub contribution snake"
+    width="100%"
+  />
 </div>
 
 ---
